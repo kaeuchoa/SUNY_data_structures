@@ -1,4 +1,4 @@
-# data_structures
+# Data Structures - Estrutura de Dados
 
 Codes made to obtain homework grade on the course CSIT 341 - Data Structures taken at the State University of New York at Fredonia.
 Algorithms based on the ones found in "Data Structures: A Pseudocode Approach with C++ by Behrouz A. Forouzan and Richard F. Gilberg".</br>
